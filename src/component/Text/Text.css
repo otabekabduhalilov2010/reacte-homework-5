@@ -1,0 +1,17 @@
+.section3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 179px;
+    padding-top: 50px;
+
+  }
+
+  .text4 {
+    font-size: 65px;
+  }
+
+  .text3 {
+    font-size: 18px;
+  }
+  

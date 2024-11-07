@@ -1,0 +1,8 @@
+.section2 {
+    display: flex;
+    gap: 115px;
+    justify-content: center ;
+    padding-top: 25px;
+  
+ align-items: center;
+  }

@@ -1,0 +1,21 @@
+
+.wrap6 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #272d38;
+  }
+  
+  .box5 {
+
+    h1 {
+      text-align: center;
+    }
+    
+    p {
+      text-align: center;
+    }
+    
+    }

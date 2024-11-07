@@ -1,0 +1,31 @@
+.text5 {
+    font-family: var(--font-family);
+font-weight: 700;
+font-size: 48px;
+line-height: 100%;
+text-transform: capitalize;
+color: #272d38;
+  }
+
+  .text6 {
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 172%;
+text-transform: capitalize;
+color: #272d38;
+padding-top: 30px;
+  }
+
+
+  .box2 {
+    display: flex;
+  justify-content: center;
+  gap: 179px;
+  align-items: center;
+  
+  p {
+    margin-top: 20px;
+  }
+  
+  }
